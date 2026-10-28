@@ -20,7 +20,7 @@ Product marketer for AI and enterprise software. I’ve been the first marketer 
 
 - Founded the 21-member Manage Better Board for architecture and engineering operators; ran six executive roundtables and industry sessions where customers shared workflows and results.
 
-- Worked with customers on six approved case studies with ROI calculations, giving customers and sales teams evidence to explain business value.
+- Worked with [AssistRx](https://www.mosaicapp.com/customers/assistrx), [CetraRuddy](https://www.mosaicapp.com/customers/cetraruddy), [Stahly Engineering](https://www.mosaicapp.com/customers/stahly-engineering), [CESO](https://www.mosaicapp.com/customers/ceso), [Clark Patterson Lee](https://www.mosaicapp.com/customers/cpl), and [Vocon](https://www.mosaicapp.com/customers/vocon) on approved case studies with ROI calculations, giving customers and sales teams evidence to explain business value.
 
 - Rebuilt attribution using an LLM-driven workflow that matched attendee emails across 2,190 sales calls to deal contacts and sourcing teams.
 
@@ -30,7 +30,7 @@ Product marketer for AI and enterprise software. I’ve been the first marketer 
 
 - Directed AI-assisted research across 13 architecture, engineering, and construction sub-industries; recommended sector-specific positioning and built a sales-development playbook grounded in observable prospect signals.
 
-- Designed and fielded a 138-person survey and co-authored The State of AI in A&E 2026, examining AI adoption among architecture and engineering professionals.
+- Designed and fielded a 138-person survey and co-authored [The State of AI in A&E 2026](https://www.mosaicapp.com/whitepapers/state-of-ai-in-a-e-2026), examining AI adoption among architecture and engineering professionals.
 
 ### BitcoinComputer.io | Head of Growth, Product Marketing (Consultant)
 
@@ -64,7 +64,7 @@ Product marketer for AI and enterprise software. I’ve been the first marketer 
 
 - Helped customers explain their experiences through webinars and ebooks that were the first conversion point for 33% of marketing-qualified leads and 21% of sales-qualified leads.
 
-- Authored research with Executive Networks based on a survey of 515 learning leaders across five countries, earning coverage in HR Dive and TD Magazine.
+- Authored research with Executive Networks based on a survey of 515 learning leaders across five countries, earning coverage in [HR Dive](https://www.hrdive.com/news/learning-talent-development-pros-foresee-demise-in-person-corporate-training/635000/) and [TD Magazine](https://www.td.org/content/td-magazine/say-goodbye-to-in-person-training).
 
 ### Mursion | Manager, Growth Marketing
 
@@ -74,7 +74,7 @@ Product marketer for AI and enterprise software. I’ve been the first marketer 
 
 - Helped enterprise customers explain their use of AI simulation through webinars and live demonstrations; developed a co-branded webinar program with Google.
 
-- Authored research with Future Workplace based on a survey of 300 corporate learning leaders; Harvard Business Review built an article around the findings, and Forbes cited the study.
+- Authored research with Future Workplace based on a survey of 300 corporate learning leaders; [Harvard Business Review](https://hbr.org/2021/01/how-companies-are-using-vr-to-develop-employees-soft-skills) built an article around the findings, and [Forbes](https://www.forbes.com/sites/jeannemeister/2021/01/14/10-hr-trends-for-the-next-normal-of-work/) cited the study.
 
 ### Feedonomics | Growth Engineer
 
