@@ -1,0 +1,54 @@
+# Ode resume — drafting notes
+
+Target: Associate Principal, AI Transformation, using the job description supplied in this conversation.
+
+The resume leads with Jacob's identity as a product marketer and his interest in customer work: understanding businesses and helping people put technology to use. CEO-facing and customer-facing experience appears once in the summary; the roles show specific contributions and results, including Mursion's enterprise webinars. These details explain the appeal of the target role without stating a job objective. The draft keeps the existing job titles and dates, leads with professional experience, and uses a selected independent-project section on the second page to support that record. These are editable drafts; this notes file is not application material.
+
+## How the six qualifications show up
+
+- **Ownership and ambiguity:** first-marketer roles, team leadership, building new workflows and processes.
+- **Learning and analysis:** industry segmentation, market sizing, original research, attribution analysis, and model evaluation.
+- **Communication:** AI capability explanations, sales materials, research publications, and speaking.
+- **Relationships:** customer-reference programs, customer interviews, enterprise sales support, and partner webinars.
+- **AI fluency:** professional Claude workflows plus independent agent and evaluation projects. The wording credits agent-directed development and does not claim sole manual software engineering or enterprise production deployment.
+- **Resourcefulness and collaboration:** building tools, working across functions, and shared authorship. The resume demonstrates these behaviors instead of asserting a personality trait such as “low ego.”
+
+## Evidence and wording decisions
+
+1. **Mosaic integration:** the evidence review attributes the underlying Gong/Salesforce plugin to RevOps and Claude skills built on it to Jacob. The draft preserves that division.
+2. **AI workflow impact:** the reduction from 50 hours to 5 for case-study production is restored from Jacob's supplied original resume. It is a user-supplied result, not a newly independently verified measurement. Keep the baseline and comparable scope ready for an interview.
+3. **Business outcomes:** included the supplied resumes' Mosaic opportunity growth and case-study time savings; NovoEd AI Translation adoption and expansion revenue; NovoEd webinar/ebook conversion shares; and Mursion attributed-pipeline result. The draft identifies the individual's launch responsibilities separately from the feature's result. The latest revision replaces the won-ARR-share and win-rate bullet with a specific AI attribution workflow, and adds the documented budget decision from the newly supplied Icertis resume. These are user-supplied figures, not numbers independently re-audited during drafting.
+4. **BitcoinComputer chronology:** retain Aug 2024–May 2025 at Jacob's direction and omit later work. The concrete bullets now use the website taxonomy (October 2024, T1-028), homepage messaging (November 2024, T1-029), messaging framework (February 2025, T1-030), and zkSync comparison (April 2025, T1-031). The 2026 protocol benchmark and early-adopter target list are omitted. The messaging framework was a working document; the draft does not claim a completed launch or customer adoption.
+5. **Customer value:** the Cascade study is customer-reported evidence, not a measured cash-return or enterprise cost-savings study. The resume describes the framework and research without claiming realized savings.
+6. **Earlier roles:** Mursion and Feedonomics bullets, the 15-customer program count, team size, and employment dates rely on the supplied resume where the evidence review does not independently substantiate every detail.
+7. **AI projects:** the draft describes methods and work performed. It does not claim a completed production service, fully validated end-to-end research system, or sole code authorship. Model evaluation is an independent project, not employment by a model vendor.
+8. **Customer work and motivation:** Jacob explicitly clarified in this conversation that he worked directly with CEOs and customers at Mosaic, BitcoinComputer, and NovoEd; ran webinars with large enterprises at Mursion; and loves customer work. The summary incorporates that information without repeating the access claim in each role. “CEO-facing” means working with CEOs, not holding the CEO title.
+9. **Scale and ownership:** rounded the market estimates to ~$9B and ~$1.4B. Kept shared authorship where applicable while naming the specific work owned. Consolidated webinar examples to NovoEd's measurable customer-led program and Mursion's enterprise/Google work, with Mosaic's new mention describing an allocation decision. Replaced generic conference speaking with the Marriott CHRO engagement. The former 25-event bullet was removed to reduce repetition.
+10. **Portfolio and evaluation:** added the known GitHub profile. At Jacob's direction, the company-research project now links to the evolved workflow in `NYCandrun/genesis`, branch `template/clean-research-workflow`, instead of the earlier `research_prompt` implementation. Verified the current remote branch tip as `fba0898db5429d38145f55076f8f1ab6293bd227` and reviewed its README and recent history on October 28, 2026. The link points to the branch so it follows future updates. Jacob plans to make the repository public later; repository visibility was not changed. The benchmark finding about an approximately 30-percentage-point prompt effect comes from its reviewed POPE results; it is not a claim of a general model-quality improvement. The benchmark repository was private in the supplied review and is not linked. No LinkedIn URL was supplied, so none is guessed.
+11. **Focused Ode revision:** elevated the professional Claude workflow and time-saving result to the first Mosaic bullet. The segmentation recommendation is grounded in T1-018's “Stop saying AEC,” 13-sector breakdown, and observable-signals checklist; no segment-level performance increase is invented. The AI-adoption survey remains a research example because the provided extracts do not establish a specific finding to quote. Restored Feedonomics' company description and clarified qualification responsibilities in the bullet. The summary retains the product marketer identity and customer-facing motivation, now borrowing the first-person voice of the supplied BlackRock resume.
+12. **Newly supplied resumes:** Jacob_Nikolau_Icertis_Oct_Update.pdf adds the LLM attribution workflow across 2,190 sales calls and management of approximately $130K per quarter with a budget shift toward webinars. The 83% figure describes webinars' lower cost per sales-accepted opportunity relative to paid digital; it does not describe an 83% reduction caused by the budget shift, and the draft does not imply the entire $130K moved. Jacob_Nikolau_PMM_Oct2026.pdf and the Icertis version support Marriott's CHRO appearing on the Josh Bersin conference main stage and NovoEd's complex enterprise buying context. The draft does not imply personal ownership of those buyers' transformation engagements. The BlackRock build-or-buy claim is not added without a concrete example; Mosaic's stale “Present” date in that version is not adopted.
+13. **Customer-facing additions:** the uploaded Jacob_Nikolau_Resume.pdf supplies the 21-member Manage Better Board, six customer-speaker executive roundtables and industry sessions, six approved case studies with ROI calculations, and the identification of Cascade's six interviews as executive interviews. The draft describes a combined six sessions, not six roundtables plus additional sessions, and does not claim Jacob personally conducted every research interview. Added the Mursion study of 300 corporate learning leaders with Future Workplace and the HBR/Forbes recognition; this is distinct from the H&R Block story featured by Inc. These are user-supplied claims. The 138-person AI-adoption survey and existing accomplishments are retained; the page break moves ahead of NovoEd to rebalance the two pages.
+
+## Source files used
+
+The October 28 project-section revision follows Jacob's instruction to place the built/prototype framing in the section introduction and then list projects without individual maturity labels. The introduction identifies self-directed tools and prototypes built with Claude Code and Codex. Eight entries explain customer-call tools, interactive product demos, the Aladdin guide, Etta, the compute marketplace, research workflows, model evaluation, and the A&E job board. The descriptions avoid claiming commercial deployment, customers, or additional measured results. The existing approximately 30-point benchmark finding remains grounded in the earlier evidence review. Public project links are included, plus the currently private genesis workflow branch at Jacob's explicit request; private marketplace and benchmark repositories are not linked. Related repositories are grouped by project rather than counted individually. The professional-experience text is retained, with the page break moved after NovoEd Head of Product Marketing to balance the expanded section.
+
+Project sources and the limits of the shallow review are recorded in `GitHub_Project_Review.md`, `GitHub_Branches_and_Commits.md`, and `GitHub_Repository_Inventory.json`.
+
+Additional user-uploaded resumes compared in this revision:
+
+- `Jacob_Nikolau_PMM_Oct2026.pdf`
+- `Jacob_Nikolau_Icertis_Oct_Update.pdf`
+- `BlackRock (1).pdf`
+- `Jacob_Nikolau_Resume.pdf`
+
+Existing repository evidence:
+
+- `../../Jacob_Nikolau_Perplexity_PMM_Evidence_Review/1_Professional_Work_Google_Drive/research/resume_text_extract.txt`
+- `../../Jacob_Nikolau_Perplexity_PMM_Evidence_Review/1_Professional_Work_Google_Drive/synthesis/Professional_Evidence_Ledger_reconciled.md`
+- `../../Jacob_Nikolau_Perplexity_PMM_Evidence_Review/1_Professional_Work_Google_Drive/research/tracks/track3_report.md`
+- `../../Jacob_Nikolau_Perplexity_PMM_Evidence_Review/3_Personal_GitHub_AI_Projects/output/Jacob_Nikolau_Personal_AI_Projects_Synthesis.md`
+- `../../Jacob_Nikolau_Perplexity_PMM_Evidence_Review/3_Personal_GitHub_AI_Projects/research/per_repo_reports/research_prompt.md`
+- `../../Jacob_Nikolau_Perplexity_PMM_Evidence_Review/3_Personal_GitHub_AI_Projects/research/per_repo_reports/Liquid-Moondream-450M-Benchmark.md`
+
+The original source documents and project repositories were not independently re-audited for this draft.
