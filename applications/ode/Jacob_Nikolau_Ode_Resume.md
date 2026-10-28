@@ -6,7 +6,7 @@ New York, NY | jacobnikolau767@gmail.com | 310-985-4638 | [github.com/NYCandrun]
 
 ## Summary
 
-Product marketer for AI and enterprise software. I’ve been the first marketer at two startups, working closely with CEOs, product teams, and customers. I help the people building, selling, and using a product agree on what it can do, why a customer would choose it, and what success looks like. I love that work, especially helping customers show the results and make the case for the product inside their own companies.
+Product marketer with eight years in enterprise and AI software. I help product teams and executives agree on which customer problems their software can solve and what they can promise buyers. I work directly with customers to understand how they use the product and document the results. I turn those results into case studies and sales materials that help customers justify their investment and help sales win new business. I also build AI tools and prototypes to learn what the technology can actually do.
 
 ## Professional Experience
 
@@ -58,7 +58,7 @@ Product marketer for AI and enterprise software. I’ve been the first marketer 
 
 *Oct 2021 – Apr 2023*
 
-- Developed vertical positioning and packaging for financial services, energy, manufacturing, and hospitality, informed by a jointly built market-sizing model estimating a ~$9B TAM and ~$1.4B mid-market opportunity.
+- Developed industry-specific positioning and packaging across manufacturing, hospitality, financial services, technology, healthcare, and energy. Co-built a market-sizing model estimating a ~$9B TAM and ~$1.4B mid-market opportunity.
 
 - Designed ROI research with Cascade Insights, including six executive interviews and a 127-person survey; translated customer-reported outcomes into a shared value framework for Sales and Customer Success.
 
@@ -70,7 +70,7 @@ Product marketer for AI and enterprise software. I’ve been the first marketer 
 
 *AI simulation training | Jul 2020 – Sep 2021*
 
-- Built the healthcare vertical go-to-market from scratch and landed Duke University Health System; ranked first on the team in new opportunities created and was fastest to reach $3M in attributed pipeline.
+- Developed go-to-market strategies across technology, healthcare, hospitality, consumer financial services, and call-center use cases. Built the healthcare vertical from scratch and landed Duke University Health System; ranked first on the team in new opportunities created and was fastest to reach $3M in attributed pipeline.
 
 - Helped enterprise customers explain their use of AI simulation through webinars and live demonstrations; developed a co-branded webinar program with Google.
 

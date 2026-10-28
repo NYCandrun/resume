@@ -60,7 +60,7 @@ blocks = [
 ('tagline', 'Product Marketing | AI & Technical B2B Software'),
 ('contact', 'New York, NY | jacobnikolau767@gmail.com | 310-985-4638 | github.com/NYCandrun'),
 ('section', 'SUMMARY'),
-('body', 'Product marketer for AI and enterprise software. I’ve been the first marketer at two startups, working closely with CEOs, product teams, and customers. I help the people building, selling, and using a product agree on what it can do, why a customer would choose it, and what success looks like. I love that work, especially helping customers show the results and make the case for the product inside their own companies.'),
+('body', 'Product marketer with eight years in enterprise and AI software. I help product teams and executives agree on which customer problems their software can solve and what they can promise buyers. I work directly with customers to understand how they use the product and document the results. I turn those results into case studies and sales materials that help customers justify their investment and help sales win new business. I also build AI tools and prototypes to learn what the technology can actually do.'),
 ('section', 'PROFESSIONAL EXPERIENCE'),
 ('role', 'Mosaic | Director of Marketing'),
 ('meta', 'AI operations and resource-management software | May 2025 – Jul 2026'),
@@ -87,13 +87,13 @@ blocks = [
 ('section', 'PROFESSIONAL EXPERIENCE, CONTINUED'),
 ('role', 'NovoEd | Marketing Strategy Manager'),
 ('meta', 'Oct 2021 – Apr 2023'),
-('bullet', 'Developed vertical positioning and packaging for financial services, energy, manufacturing, and hospitality, informed by a jointly built market-sizing model estimating a ~$9B TAM and ~$1.4B mid-market opportunity.'),
+('bullet', 'Developed industry-specific positioning and packaging across manufacturing, hospitality, financial services, technology, healthcare, and energy. Co-built a market-sizing model estimating a ~$9B TAM and ~$1.4B mid-market opportunity.'),
 ('bullet', 'Designed ROI research with Cascade Insights, including six executive interviews and a 127-person survey; translated customer-reported outcomes into a shared value framework for Sales and Customer Success.'),
 ('bullet', 'Helped customers explain their experiences through webinars and ebooks that were the first conversion point for 33% of marketing-qualified leads and 21% of sales-qualified leads.'),
 ('bullet', 'Authored research with Executive Networks based on a survey of 515 learning leaders across five countries, earning coverage in HR Dive and TD Magazine.'),
 ('role', 'Mursion | Manager, Growth Marketing'),
 ('meta', 'AI simulation training | Jul 2020 – Sep 2021'),
-('bullet', 'Built the healthcare vertical go-to-market from scratch and landed Duke University Health System; ranked first on the team in new opportunities created and was fastest to reach $3M in attributed pipeline.'),
+('bullet', 'Developed go-to-market strategies across technology, healthcare, hospitality, consumer financial services, and call-center use cases. Built the healthcare vertical from scratch and landed Duke University Health System; ranked first on the team in new opportunities created and was fastest to reach $3M in attributed pipeline.'),
 ('bullet', 'Helped enterprise customers explain their use of AI simulation through webinars and live demonstrations; developed a co-branded webinar program with Google.'),
 ('bullet', 'Authored research with Future Workplace based on a survey of 300 corporate learning leaders; Harvard Business Review built an article around the findings, and Forbes cited the study.'),
 ('role', 'Feedonomics | Growth Engineer'),
@@ -160,7 +160,7 @@ for typ,txt in blocks:
         p.style=doc.styles['List Bullet']
         p.paragraph_format.left_indent=Inches(.13)
         p.paragraph_format.first_line_indent=Inches(-.13)
-        p.paragraph_format.space_after=Pt(3)
+        p.paragraph_format.space_after=Pt(1.5)
     if typ in ('name','tagline','contact','section','role','meta'):
         p.paragraph_format.keep_with_next=True
     p.paragraph_format.widow_control=True
@@ -198,6 +198,7 @@ styles['role']=ParagraphStyle('role',fontName='Helvetica-Bold',fontSize=10,leadi
 styles['meta']=ParagraphStyle('meta',fontName='Helvetica-Oblique',fontSize=9.2,leading=11,spaceAfter=4,keepWithNext=True)
 styles['bullet'].leftIndent=9
 styles['bullet'].bulletIndent=0
+styles['bullet'].spaceAfter=1.5
 story=[]
 for typ,txt in blocks:
     if typ=='pagebreak': story.append(PageBreak()); continue

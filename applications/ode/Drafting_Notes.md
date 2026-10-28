@@ -31,6 +31,8 @@ The summary uses plain language for Jacob's account of product marketing: helpin
 
 ## Proof-link restoration
 
+The subsequent minimal revision applies Jacob's approved plain-language summary and makes the cross-industry scope explicit in two existing bullets. NovoEd now names manufacturing, hospitality, financial services, technology, healthcare, and energy. Mursion names technology, healthcare, hospitality, consumer financial services, and call-center use cases (a use case rather than a separate industry). The expanded lists come from the feedback Jacob supplied and asked to incorporate. Existing titles, dates, metrics, project entries, and proof-link destinations are retained.
+
 Restored the exact URLs embedded in the supplied `Jacob_Nikolau_Resume.pdf` and PMM/Icertis PDFs: six Mosaic customer case studies, The State of AI in A&E 2026, HR Dive, TD Magazine, Harvard Business Review, and Forbes. Customer names are restored in the Mosaic case-study bullet so each story has its own link. The seven existing profile/project links remain. The old Guidehouse announcement and Inc. feature concern examples absent from this version; they are not attached to unrelated claims. PDF link annotations and Word hyperlink relationships are checked against the Markdown destinations; external page availability is not independently verified. The tracked `build_resume.py` generates all three formats from the same text and link map and supports multiple links per paragraph. Run it with Python, python-docx, ReportLab, and the Liberation Sans fonts installed.
 
 ## Source files used
