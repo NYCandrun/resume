@@ -2,7 +2,7 @@
 
 Target: Associate Principal, AI Transformation, using the job description supplied in this conversation.
 
-The resume leads with Jacob's account of product marketing as the work of reconciling product capabilities and internal beliefs, leadership priorities, market realities, and the needs of individual accounts. Frameworks, narratives, customer research, and customer advocacy help people agree on goals, set expectations, recognize results, and make the case for value within their organizations. The summary expresses his enjoyment of that complexity. Professional examples substantiate the narrative through positioning, buyer/evaluator frameworks, ROI research, reference programs, analyst relations, and customer presentations. The independent AI projects extend the same curiosity into research and building. The draft keeps the existing titles and dates. These are editable drafts; this notes file is not application material.
+The summary uses plain language for Jacob's account of product marketing: helping the people building, selling, and using a product agree on what it can do, why a customer would choose it, and what success looks like. It expresses his enjoyment of that work and of helping customers show results and make the case inside their companies. Professional examples substantiate the narrative through positioning, buyer/evaluator frameworks, ROI research, reference programs, analyst relations, and customer presentations. The independent AI projects extend the same curiosity into research and building. The draft keeps the existing titles and dates. These are editable drafts; this notes file is not application material.
 
 ## How the six qualifications show up
 

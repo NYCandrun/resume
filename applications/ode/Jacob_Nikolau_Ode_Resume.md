@@ -6,7 +6,7 @@ New York, NY | jacobnikolau767@gmail.com | 310-985-4638 | [github.com/NYCandrun]
 
 ## Summary
 
-Product marketer for AI and enterprise software, twice the first marketer at a startup. I work with CEOs, product teams, and customers to reconcile product capabilities and internal expectations with market realities and the needs of an individual account. I build frameworks, narratives, and customer evidence that help people agree on goals, set expectations, and recognize results. I love working through that complexity and helping customers make the case for the value they get.
+Product marketer for AI and enterprise software. I’ve been the first marketer at two startups, working closely with CEOs, product teams, and customers. I help the people building, selling, and using a product agree on what it can do, why a customer would choose it, and what success looks like. I love that work, especially helping customers show the results and make the case for the product inside their own companies.
 
 ## Professional Experience
 
