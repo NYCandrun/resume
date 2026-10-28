@@ -1,0 +1,104 @@
+{
+ "i_dont_know": {
+  "hits": 84,
+  "calls": 51,
+  "per1k_2025": 0.73,
+  "per1k_2026": 0.36
+ },
+ "not_sure": {
+  "hits": 16,
+  "calls": 12,
+  "per1k_2025": 0.11,
+  "per1k_2026": 0.11
+ },
+ "push_back/disagree": {
+  "hits": 6,
+  "calls": 4,
+  "per1k_2025": 0.05,
+  "per1k_2026": 0.03
+ },
+ "I_dont_think": {
+  "hits": 25,
+  "calls": 22,
+  "per1k_2025": 0.18,
+  "per1k_2026": 0.16
+ },
+ "example": {
+  "hits": 167,
+  "calls": 72,
+  "per1k_2025": 1.15,
+  "per1k_2026": 1.11
+ },
+ "reason": {
+  "hits": 735,
+  "calls": 115,
+  "per1k_2025": 5.16,
+  "per1k_2026": 4.74
+ },
+ "why_whatif": {
+  "hits": 172,
+  "calls": 70,
+  "per1k_2025": 1.05,
+  "per1k_2026": 1.31
+ },
+ "commit": {
+  "hits": 277,
+  "calls": 93,
+  "per1k_2025": 1.59,
+  "per1k_2026": 2.25
+ },
+ "request": {
+  "hits": 267,
+  "calls": 82,
+  "per1k_2025": 1.56,
+  "per1k_2026": 2.14
+ },
+ "credit": {
+  "hits": 108,
+  "calls": 67,
+  "per1k_2025": 0.71,
+  "per1k_2026": 0.76
+ },
+ "self_correct": {
+  "hits": 10,
+  "calls": 8,
+  "per1k_2025": 0.07,
+  "per1k_2026": 0.06
+ },
+ "hear/fair": {
+  "hits": 25,
+  "calls": 22,
+  "per1k_2025": 0.17,
+  "per1k_2026": 0.17
+ },
+ "customer": {
+  "hits": 105,
+  "calls": 46,
+  "per1k_2025": 0.75,
+  "per1k_2026": 0.66
+ },
+ "frustration": {
+  "hits": 19,
+  "calls": 16,
+  "per1k_2025": 0.11,
+  "per1k_2026": 0.16
+ },
+ "censored": {
+  "hits": 13,
+  "calls": 11,
+  "per1k_2025": 0.1,
+  "per1k_2026": 0.08
+ },
+ "underperform": {
+  "hits": 25,
+  "calls": 19,
+  "per1k_2025": 0.24,
+  "per1k_2026": 0.08
+ },
+ "ai": {
+  "hits": 182,
+  "calls": 72,
+  "per1k_2025": 1.4,
+  "per1k_2026": 1.01
+ }
+}

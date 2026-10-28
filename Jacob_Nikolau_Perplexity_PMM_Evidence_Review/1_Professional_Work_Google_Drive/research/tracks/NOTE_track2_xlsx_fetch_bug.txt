@@ -1,0 +1,1 @@
+fetch.sh xlsx bug: openpyxl rejects .raw extension; workaround copy to /tmp/ID.xlsx then convert (see /tmp/x2t.sh logic). Track2 converted several.

@@ -1,0 +1,94 @@
+                                              JACOB NIKOLAU
+                                   Product Marketing | AI & Technical B2B Software
+                                New York, NY • jacobnikolau767@gmail.com • 310-985-4638
+
+SUMMARY
+Product marketing leader for AI and technical B2B software. First product marketer at NovoEd and first marketer at Mosaic.
+Co-led NovoEd's AI translation launch and owned positioning and messaging for Mosaic's AI resource-management agent,
+Chello. Builds company and product narrative and positioning, then proves it through customer-led webinars, events, and
+original research; at Mosaic, marketing-sourced deals were 61% of won ARR and won at 2.3x the outbound rate.
+
+EXPERIENCE
+
+Director of Marketing                                                                                May 2025 - Jul 2026
+Mosaic, AI-native operations and resource-management platform for architecture and engineering firms | New York, NY
+ • Owned positioning and messaging for Mosaic's AI-native platform and its resource-management agent, Chello, turning
+   technical capabilities into role-specific stories for operations, resource-management, and executive buyers.
+ • Built a segmentation and targeting playbook across 13 architecture, engineering, and construction sub-industries to focus
+   messaging, outbound, and campaign spend.
+ • Designed, fielded, and wrote The State of AI in A&E 2026, a study of 138 architecture and engineering professionals that
+   shaped Mosaic's point of view on AI adoption.
+ • Built a Claude pipeline across Gong and Salesforce that mines every sales call for positioning angles, objections,
+   competitive mentions, and proof points; pulling evidence from calls cut case-study production from 50 hours to 5.
+ • Led a three-person marketing team plus paid-media and outbound agencies, owning demand generation, field marketing,
+    research, content, and the website; marketing-sourced deals were 61% of won ARR and won at 2.3x the outbound rate.
+ • Grew marketing-sourced opportunities from 68 to 238 per quarter; marketing's share of new opportunities reached 65%
+   by June 2026, and marketing-sourced won ARR in the first half of 2026 exceeded all of 2025.
+
+Head of Growth, Product Marketing (Consultant)                                                      Aug 2024 - May 2025
+BitcoinComputer.io, Smart-contract platform | New York, NY
+ • Served as the first and sole marketer for a pre-revenue Bitcoin smart-contract platform, building positioning and
+   go-to-market, narrowing the platform to four priority use cases, and identifying about 60 screened early-adopter targets.
+ • Benchmarked 34 competing protocols to decide which product directions were viable and how to position them.
+
+Head of Product Marketing                                                                            Apr 2023 - Aug 2024
+NovoEd (a Fidelity company), Enterprise learning platform | New York, NY
+ • Co-led the AI language translation launch with Sales and Customer Success, owning positioning, enablement, and
+   go-to-market execution; the launch drove more than $1M in expansion revenue across CEMEX and Marriott alone, with
+   Marriott expanding within one month, and about 100,000 learners used it in the first 12 months.
+ • Led product marketing for a complex enterprise platform with 12-24-month sales cycles, sold to Fortune 500 and
+    regulated buyers including Goldman Sachs and Capital Group; built enablement that supported wins with Delta and
+    Marriott and expansions within Centene and 3M.
+ • Wrote a differentiators deck and features-to-value taxonomy that standardized how Sales positioned the platform against
+   competitors in sales conversations and demos.
+ • Ran NovoEd's analyst program, including Gartner and Forrester, earned a Craig Weiss Top 10 Learning Systems
+   placement, and placed Marriott's CHRO on the main stage at Josh Bersin's conference to present the engagement.
+ • Built the customer-story and reference program across 15 enterprise customers, with references used in nearly every
+   sales cycle.
+ • Produced about 25 third-party webinars and appearances, putting customers such as Marriott, 3M, and Baker Hughes in
+   sessions with Josh Bersin, Brandon Hall Group, and Training Magazine, plus three Training Industry Leader Talks.
+ • Spoke in person at the ATD, Training Industry, and Brandon Hall Group conferences.
+Marketing Strategy Manager                                                                              Oct 2021 - Apr 2023
+NovoEd (a Fidelity company) | New York, NY
+ • Sized an $8.975B total market and a $1.44B mid-market opportunity, then developed vertical positioning and packaging
+   for financial services, energy, manufacturing, and hospitality that contributed to 15% top-line revenue growth.
+ • Created a customer-value and ROI framework for Sales and Customer Success, based on a 127-participant study with
+   Cascade Insights.
+ • Ran NovoEd's customer-led demand generation program, featuring customers such as NetApp and Baptist Memorial in
+   webinars and ebooks. Together they were the first conversion point for 33% of MQLs (tied for #1 across all channels)
+   and 21% of SQLs (#2). The positioning work earned a promotion to Head of Product Marketing.
+ • Authored original research with Executive Networks based on a survey of 515 learning leaders across five countries,
+   which earned coverage in HR Dive and TD Magazine.
+ • Ran The Great Workplace Disconnect, a 500-person study with the PR agency Peppercom comparing senior leaders,
+   middle managers, and individual contributors, and used the findings for messaging, PR angles, and thought leadership.
+
+Manager, Growth Marketing                                                                               Jul 2020 - Sep 2021
+Mursion, AI simulation training | San Francisco, CA
+ • Built the healthcare vertical go-to-market from scratch and landed Duke University Health System. Ranked #1 on the
+   team in new opportunities created and was the fastest to reach $3M in attributed pipeline.
+ • Wrote VR Changes the Game for Soft Skills Training with Future Workplace, original research with 300 corporate
+   learning leaders; Harvard Business Review built an article around the research, and Forbes cited it.
+ • Ghostwrote the H&R Block customer story, then ran the webinar and PR campaign that followed. Inc. built a feature
+   around the story.
+ • Built live product-demo and thought-leadership webinars end to end, including a co-branded program with Google.
+
+Growth Engineer                                                                                        Aug 2018 - Jul 2020
+Feedonomics, commerce data and feed-integration platform | Los Angeles, CA
+ • Used patterns from sales conversations with enterprise and mid-market prospects to improve messaging, lead
+   generation, and conversion.
+ • Owned first-touch qualification for large enterprise accounts and worked with RevOps on lead scoring, funnel tracking,
+   and response time.
+
+SKILLS & TOOLS
+Product Marketing: Positioning & messaging, go-to-market strategy, product launches, sales enablement, competitive intelligence,
+buyer segmentation, voice of customer, market research, analyst relations, customer advocacy
+Demand Generation & Field Marketing: Customer-led demand generation, field marketing, webinars and events, content, thought
+leadership, original research, pipeline attribution, agency management, customer evidence
+AI Product Marketing: Agentic AI product marketing, AI product launches, technical storytelling, AI-assisted customer and
+competitive intelligence
+Tools: Claude, Gong, Salesforce, HubSpot, Zapier, Clay, Airtable
+
+EDUCATION
+University of California, Berkeley | BA, Geography, Dual Concentration in Earth & Planetary Science and Environmental
+Economics
+
