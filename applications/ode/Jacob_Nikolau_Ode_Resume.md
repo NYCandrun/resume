@@ -38,7 +38,7 @@ Product marketer for AI and technical B2B software, twice the first marketer at 
 
 - Served as the first and sole marketer for a pre-revenue platform; wrote a messaging framework defining target audiences, value proposition, differentiators, and competitive positioning.
 
-- Wrote website messaging around JavaScript smart contracts for Bitcoin and mapped site content to technical and business evaluation; compared the platform with zkSync across architecture, security, and developer experience.
+- Translated Bitcoin Computer’s architecture into website and product messaging; produced decision-ready research spanning competing protocols, developer economics, compliance considerations, and applications including decentralized exchange, token issuance, and skill gaming.
 
 ### NovoEd | Head of Product Marketing
 
@@ -94,7 +94,7 @@ Built self-directed tools and prototypes with Claude Code and Codex to understan
 
 - [Etta](https://github.com/NYCandrun/etta_app_update): Desktop learning app combining Claude-generated lessons and quizzes with prerequisite progression, mastery tracking, and spaced review, from algebra through astrophysics.
 
-- Compute marketplace: Buyer/vendor workflows for fixed-price AI jobs with flexible deadlines, covering posting, claiming, delivery, and acceptance to explore the economics of work that can wait.
+- Compute marketplace: Prototyped fixed-price AI-job workflows and built a fact-checked 517-company dossier to test the thesis and map gaps in verification and recourse.
 
 - [Company research workflows](https://github.com/NYCandrun/genesis/tree/template/clean-research-workflow): Source collection, citation checks, and independent review for company briefs, with controls that stop completion when required evidence is missing.
 
