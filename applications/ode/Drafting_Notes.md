@@ -2,7 +2,18 @@
 
 Target: Associate Principal, AI Transformation, using the job description supplied in this conversation.
 
-The summary uses plain language for Jacob's account of product marketing: helping the people building, selling, and using a product agree on what it can do, why a customer would choose it, and what success looks like. It expresses his enjoyment of that work and of helping customers show results and make the case inside their companies. Professional examples substantiate the narrative through positioning, buyer/evaluator frameworks, ROI research, reference programs, analyst relations, and customer presentations. The independent AI projects extend the same curiosity into research and building. The draft keeps the existing titles and dates. These are editable drafts; this notes file is not application material.
+The current revision starts from the saved resume at `e9ae794`, rather than the broader rewrite drafted in chat. It keeps Jacob's product-marketing identity and existing wording outside the agreed scope. These are editable drafts; this notes file is not application material.
+
+## Current revision scope
+
+- Apply the proposed Ode-focused summary. Add the NovoEd ROI research to the summary so executive-interview experience is visible at the top; the full bullet remains under the correct 2021–2023 role.
+- Reorder the existing Mosaic bullets to lead with the Claude workflow, 13-industry research, spending decision, and advisory board. Preserve all nine bullets verbatim.
+- Add the enterprise deal-support bullet from Jacob's September 24 email to Melissa Duran: Sales, Customer Experience, and Professional Services collaboration supporting wins and expansions at the named accounts. Retain the existing business-buyer/technical-evaluator framework, 12–24-month sales cycles, and regulated-account examples verbatim. Do not claim deal ownership, advisory engagements, or services-pricing experience.
+- Place the existing Cascade ROI-research bullet first within the earlier NovoEd role. Preserve the expanded industry lists and all other employment bullets verbatim.
+- Feature exactly four AI projects in this order: company research workflows, model evaluation, compute marketplace, customer research tools. Keep their descriptions and the section introduction verbatim. Move the other four descriptions and their links to `Project_Portfolio.md`, accessible through one additional-projects link.
+- Preserve the saved headline, titles, dates, metrics, skills, and education. Preserve all professional proof links and the links for retained projects; the other project links remain available in the portfolio.
+
+The following notes record the earlier evidence and drafting decisions; the scope above governs the current version.
 
 ## How the six qualifications show up
 
